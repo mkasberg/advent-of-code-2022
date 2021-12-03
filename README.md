@@ -4,7 +4,15 @@ These are my own solutions for [Advent of Code 2021](https://adventofcode.com/).
 
 **Spoiler alert!** This repository contains solutions to the problems.
 
-## Running
+## New Days
+
+    $ ./new_day.sh
+
+This script will create a new directory for the current day, download the input,
+and put skeleton code in place. To use it, create a `.env` file with your
+session `SESSION=foo`.
+
+## Running Solutions
 
 Most scripts are ruby scripts. I'd expect them to work with any recent version
 of ruby, and there aren't any dependencies to install.
