@@ -27,5 +27,6 @@ echo "💻 Preparing workspace..."
 
 cp "$DIR/template.rb" "$DIR/$PADDED_DAY/solution.rb"
 cp "$DIR/template.rb" "$DIR/$PADDED_DAY/solution2.rb"
+touch "$DIR/$PADDED_DAY/example.txt"
 
 echo "🚀 Welcome to Day $PADDED_DAY. Let's get coding!"
