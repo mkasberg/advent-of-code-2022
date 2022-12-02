@@ -13,7 +13,7 @@ set -e
 DIR=`dirname $0`
 DAY=`TZ='America/New_York' date +%-d`
 PADDED_DAY=`TZ='America/New_York' date +%d`
-URL="https://adventofcode.com/2021/day/$DAY/input"
+URL="https://adventofcode.com/2022/day/$DAY/input"
 
 echo "📁 Creating dir $PADDED_DAY..."
 mkdir -p "$DIR/$PADDED_DAY"

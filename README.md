@@ -1,6 +1,6 @@
-# Advent of Code 2021
+# Advent of Code 2022
 
-These are my own solutions for [Advent of Code 2021](https://adventofcode.com/).
+These are my own solutions for [Advent of Code 2022](https://adventofcode.com/).
 
 **Spoiler alert!** This repository contains solutions to the problems.
 
