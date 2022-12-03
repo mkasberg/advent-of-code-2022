@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
-lines = ARGF.readlines
+lines = ARGF.readlines.map(&:strip)
+
+
 
 puts "Result: "
