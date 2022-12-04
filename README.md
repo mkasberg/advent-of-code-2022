@@ -1,6 +1,8 @@
 # Advent of Code 2022
 
 These are my own solutions for [Advent of Code 2022](https://adventofcode.com/).
+Note that I'm usually optimizing for coding speed over code clarity, so these
+might not always be the cleanest or most optimal solution.
 
 **Spoiler alert!** This repository contains solutions to the problems.
 
